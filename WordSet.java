@@ -1,8 +1,9 @@
 /*
 UVG
-Algoritmos y Estructuras de Datos - 2011
-Hoja de trabajo 7 
-Autor: Eduardo Castellanos
+Algoritmos y Estructuras de Datos
+Ejercicio 9
+Ricardo Galindo - 14225
+Daniel Smith - 14089
 
 Descripción: WordSet. Interfaz para las implementaciones de clases que almacenarán palabras.
 */
